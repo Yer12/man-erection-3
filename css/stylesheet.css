@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Arimo';
+	src: url('../fonts/Arimo-Bold.eot');
+	src: local('Arimo Bold'), local('Arimo-Bold'),
+		url('../fonts/Arimo-Bold.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Arimo-Bold.woff') format('woff'),
+		url('../fonts/Arimo-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Arimo';
+	src: url('../fonts/Arimo.eot');
+	src: local('Arimo'),
+		url('../fonts/Arimo.eot#iefix') format('embedded-opentype'),
+		url('../fonts/Arimo.woff') format('woff'),
+		url('../fonts/Arimo.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tenor Sans';
+    src: url('../fonts/TenorSans.eot');
+    src: local('Tenor Sans'), local('TenorSans'),
+        url('../fonts/TenorSans.eot#iefix') format('embedded-opentype'),
+        url('../fonts/TenorSans.woff') format('woff'),
+        url('../fonts/TenorSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
